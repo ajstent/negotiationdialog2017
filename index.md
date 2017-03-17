@@ -42,7 +42,9 @@ Corpora:
 
 Other relevant references:
 - Candice Sidner (1994). "Negotiation in collaborative activity: A discourse analysis". *Knowledge-Based Systems*, 7(4), 265-267.
+- Thomas Rist and Markus Schmitt. (2008). "Applying socio-psychological concepts of cognitive consistency to negotiation dialog scenarios with embodied conversational characters". In *Animating Expressive Characters for Social Interaction*, Cañamero L, Aylett R (Eds). John Benjamins Publishing Co: 213-234.
 - Avi Rosenfeld, et al. (2014). "NegoChat: a chat-based negotiation agent". In *Proceedings of the International Conference on Autonomous Agents and Multi-Agent Systems*.
+- David DeVault, Jonathan Mell, and Jonathan Gratch (2015). "Toward natural turn-taking in a virtual human negotiation agent". In *Proceedings of the AAAI Spring Symposium on Turn-taking and Coordination in Human-Machine Interaction*. 
 
 ## Call for Papers
 
