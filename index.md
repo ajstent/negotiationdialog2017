@@ -1,10 +1,10 @@
 # SIGDIAL/SEMDIAL 2017 Joint Session on Negotiation Dialog
 
-- [Introduction](https://ajstent.github.io/negotiationdialog2017/blob/master/index.md#introduction)
-- [Call for Papers](https://ajstent.github.io/negotiationdialog2017/blob/master/index.md#call-for-papers)
-- [Organizers](https://ajstent.github.io/negotiationdialog2017/blob/master/index.md#organizers)
-- [Accepted Papers](https://ajstent.github.io/negotiationdialog2017/blob/master/index.md#accepted-papers)
-- [Schedule](https://ajstent.github.io/negotiationdialog2017/blob/master/index.md#schedule)
+- [Introduction](https://ajstent.github.io/negotiationdialog2017/index.md#introduction)
+- [Call for Papers](https://ajstent.github.io/negotiationdialog2017/index.md#call-for-papers)
+- [Organizers](https://ajstent.github.io/negotiationdialog2017/index.md#organizers)
+- [Accepted Papers](https://ajstent.github.io/negotiationdialog2017/index.md#accepted-papers)
+- [Schedule](https://ajstent.github.io/negotiationdialog2017/index.md#schedule)
 
 ## Introduction
 
