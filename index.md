@@ -22,9 +22,12 @@ Our objectives in this special session are two-fold: first, to encourage discuss
 
 This list is provided to assist potential participants in the special session. Submissions to the special session are not required to use these corpora or resources.
 
-- The Teams corpus consists of audio and associated transcriptions for 62 teams of 3 and 4 speakers playing a simplified version of the cooperative board game Forbidden Island (TM). The game gives each player a different role; players need to communicate (e.g., discuss cards and strategies) to achieve team goals. Reference: Diane Litman, Susannah Paletz, Zahra Rahimi, Stefani Allegretti and Caitlin Rice (2016).       The Teams Corpus and Entrainment in Multi-Party Spoken Dialogues. In Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing (EMNLP), Austin, Texas, USA. 
-- The Internet Argument Corpus (IAC 2.0) is a database of social and political dialogs collected from social media sites such as CreateDebate and 4Forums, which has annotations for various aspects of negotiation dialog, such as agreement and disagreement, sarcasm, nastiness, factuality of arguments vs. emotionality. Reference: Abbott, Robert, et al. "Internet argument corpus 2.0: An sql schema for dialogic social media and the corpora to go with it." In Proceedings of the Language Resources and Evaluation Conference, LREC2016. 2016.
-- The Yahoo News Annotated Comments Corpus is one of the largest annotated corpora of online human dialogues, with the most detailed set of annotations. It will be valuable for identifying Engaging Respectful Informative Conversations and other aspects of argumentation, dialogue, and discourse. ERICs are characterized by argumentative, respectful exchanges containing persuasive, informative, and/or sympathetic comments. Reference: Napoles, Courtney et al. “Finding Good Conversations Online: The Yahoo News Annotated Comments Corpus”. In Proceedings of the 11th Linguistics Annotation Workshop, SIGANN, 2017.
+- The Teams corpus consists of audio and associated transcriptions for 62 teams of 3 and 4 speakers playing a simplified version of the cooperative board game Forbidden Island (TM). The game gives each player a different role; players need to communicate (e.g., discuss cards and strategies) to achieve team goals.
+..- Diane Litman, Susannah Paletz, Zahra Rahimi, Stefani Allegretti and Caitlin Rice (2016).       The Teams Corpus and Entrainment in Multi-Party Spoken Dialogues. In Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing (EMNLP), Austin, Texas, USA. 
+- The Internet Argument Corpus (IAC 2.0) is a database of social and political dialogs collected from social media sites such as CreateDebate and 4Forums, which has annotations for various aspects of negotiation dialog, such as agreement and disagreement, sarcasm, nastiness, factuality of arguments vs. emotionality.
+..- Abbott, Robert, et al. "Internet argument corpus 2.0: An sql schema for dialogic social media and the corpora to go with it." In Proceedings of the Language Resources and Evaluation Conference, LREC2016. 2016.
+- The Yahoo News Annotated Comments Corpus is one of the largest annotated corpora of online human dialogues, with the most detailed set of annotations. It will be valuable for identifying Engaging Respectful Informative Conversations and other aspects of argumentation, dialogue, and discourse. ERICs are characterized by argumentative, respectful exchanges containing persuasive, informative, and/or sympathetic comments.
+..- Napoles, Courtney et al. “Finding Good Conversations Online: The Yahoo News Annotated Comments Corpus”. In Proceedings of the 11th Linguistics Annotation Workshop, SIGANN, 2017.
 - The Settlers of Catan Corpus collected by Nicholas Asher and colleagues is a collection of annotated “strategic conversations”, in which participants in a game of Settlers of Catan may negotiate or mislead in order to increase their chances of winning. Like the Teams corpus, this is a multiparty dialog corpus; unlike that corpus, it is chat-based. Reference: Stergos Afantenos, et al. "Developing a corpus of strategic conversation in the settlers of catan." In Proceedings of SeineDial 2012-The 16th Workshop On The Semantics and Pragmatics Of Dialogue. 2012.
 - The Coconut corpus is a collection of annotated dialogs in which the conversational participants collaborate to furnish rooms in a house; each participant has their own list of furniture and prices, and may have their own preferences, but the budget is shared. Reference: Barbara Di Eugenio, et al. “The agreement process: An empirical investigation of human–human computer-mediated collaborative dialogs”. International Journal of Human-Computer Studies, 53(6), 1017-1076.
 
@@ -44,8 +47,8 @@ Researchers may choose to submit:
 ### Regular Paper Submissions
 
 To submit a regular paper, please go to:
-- http://www.sigdial.org/workshops/conference18/ for SIGDIAL submissions (deadline April 18)
-- http://www.saardial.uni-saarland.de/?page_id=2 for SEMDIAL submissions (deadline May 8)
+- [SIGDIAL 2017](http://www.sigdial.org/workshops/conference18/) for SIGDIAL submissions (deadline April 18)
+- [SEMDIAL 2017](http://www.saardial.uni-saarland.de/?page_id=2) for SEMDIAL submissions (deadline May 8)
 
 ### Position Paper Submissions
 
