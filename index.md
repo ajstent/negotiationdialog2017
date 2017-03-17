@@ -28,7 +28,7 @@ Our objectives in this special session are two-fold: first, to encourage discuss
 
 This list is provided to assist potential participants in the special session. Submissions to the special session are not required to use these corpora or resources.
 
-Corpora:
+Corpora (we welcome your suggestions and contributions!):
 - The Teams corpus consists of audio and associated transcriptions for 62 teams of 3 and 4 speakers playing a simplified version of the cooperative board game Forbidden Island (TM). The game gives each player a different role; players need to communicate (e.g., discuss cards and strategies) to achieve team goals.
   - Diane Litman, Susannah Paletz, Zahra Rahimi, Stefani Allegretti and Caitlin Rice (2016). "The Teams corpus and entrainment in multi-party spoken dialogues". In *Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing*.
 - The Internet Argument Corpus (IAC 2.0) is a database of social and political dialogs collected from social media sites such as CreateDebate and 4Forums, which has annotations for various aspects of negotiation dialog, such as agreement and disagreement, sarcasm, nastiness, factuality of arguments vs. emotionality.
@@ -40,7 +40,7 @@ Corpora:
 - The Coconut corpus is a collection of annotated dialogs in which the conversational participants collaborate to furnish rooms in a house; each participant has their own list of furniture and prices, and may have their own preferences, but the budget is shared. 
   - Barbara Di Eugenio, et al. (2000). “The agreement process: An empirical investigation of human–human computer-mediated collaborative dialogs”. *International Journal of Human-Computer Studies*, 53(6), 1017-1076.
 
-Other relevant references:
+Other relevant references (we welcome your suggestions and contributions!):
 - Candice Sidner (1994). "Negotiation in collaborative activity: A discourse analysis". *Knowledge-Based Systems*, 7(4), 265-267.
 - Thomas Rist and Markus Schmitt. (2008). "Applying socio-psychological concepts of cognitive consistency to negotiation dialog scenarios with embodied conversational characters". In *Animating Expressive Characters for Social Interaction*, Cañamero L, Aylett R (Eds). John Benjamins Publishing Co: 213-234.
 - Avi Rosenfeld, et al. (2014). "NegoChat: a chat-based negotiation agent". In *Proceedings of the International Conference on Autonomous Agents and Multi-Agent Systems*.
