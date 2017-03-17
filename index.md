@@ -1,5 +1,11 @@
 # SIGDIAL/SEMDIAL 2017 Joint Session on Negotiation Dialog
 
+- [Introduction](https://github.com/ajstent/negotiationdialog2017/blob/master/index.md#introduction)
+- [Call for Papers](https://github.com/ajstent/negotiationdialog2017/blob/master/index.md#call_for_papers)
+- [Organizers](https://github.com/ajstent/negotiationdialog2017/blob/master/index.md#introduction)
+- [Accepted Papers](https://github.com/ajstent/negotiationdialog2017/blob/master/index.md#introduction)
+- [Schedule](https://github.com/ajstent/negotiationdialog2017/blob/master/index.md#introduction)
+
 ## Introduction
 
 Most of the work  to date on spoken dialog systems has focused on task-oriented dialog, where the goal of the system is to help the user complete a task, such as finding and booking a flight, a restaurant or a hotel. This type of dialog is typically modelled with an underlying frame with slots that need to be filled, in order for the system to have enough information to provide the user with the information that they seek, or to complete a transaction on behalf of the user, such as booking a flight. 
@@ -63,3 +69,11 @@ To submit a position paper, please email a 2-4 page PDF (including references), 
 - Aasish Pappu, Yahoo Inc
 - Diane Litman, University of Pittsburgh
 - Marilyn Walker, University of California Santa Cruz
+
+## Accepted Papers
+
+TBD!
+
+## Schedule
+
+TBD!
