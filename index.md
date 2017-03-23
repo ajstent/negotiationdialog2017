@@ -1,3 +1,5 @@
+<meta http-equiv="refresh" content="0; url=https://sites.google.com/view/negotiation2017" />
+
 # SIGDIAL/SEMDIAL 2017 Joint Session on Negotiation Dialog
 
 - [Introduction](https://ajstent.github.io/negotiationdialog2017/index.html#introduction)
